@@ -1,13 +1,13 @@
 h1 {
     font-size: 28px;
     color: white;
-    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    text-shadow: -1px -1px 0 saddlebrown, 1px -1px 0 saddlebrown, -1px 1px 0 saddlebrown, 1px 1px 0 saddlebrown;
 }
 
 p {
-    color: cornsilk;
+    color: saddlebrown;
     font-size: 28px;
-    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    
 }
 body {
     margin: 50px;
@@ -62,7 +62,8 @@ form {
 
 .img {
     width: 40%;
-    border-radius: 100px;
+    border-radius: 50px;
+    margin: 10px 20px 30px 20px;
 }
 input {
     width: 200px;
